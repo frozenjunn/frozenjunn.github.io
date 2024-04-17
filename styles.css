@@ -22,4 +22,20 @@ body {
   width: 80%;
 }
 
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
 
+.main-title {
+  display: flex;
+}
+
+.section {
+  display: flex;
+}
+
+.sidebar {
+  display: flex;
+}
